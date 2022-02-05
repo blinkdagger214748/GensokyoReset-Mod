@@ -1,2 +1,2 @@
-# GensokyoReset-Mod
-Gensokyo Reset Mod
+# GensokyoAddon-Mod
+Gensokyo Addon Mod
