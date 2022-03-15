@@ -1,2 +1,2 @@
-# GensokyoAddon-Mod
-Gensokyo Addon Mod
+# Touhou-Expansion-Mod
+Touhou Expansion Mod
